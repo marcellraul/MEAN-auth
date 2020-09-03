@@ -1,4 +1,5 @@
-# Angular & Nodejs JWT Auth
+
+# MEAN-auth
 
 ![](./screenshot.png)
 
